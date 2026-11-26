@@ -12,8 +12,6 @@ The dashboard contains three pages:
 2. **Conversion Funnel** — progression from product view through purchase, including purchases outside the standard funnel.
 3. **Acquisition & Retention** — acquisition-channel performance and weekly cohort retention.
 
-> Dashboard access depends on Looker Studio sharing permissions. Ensure the report is viewable by anyone with the link before sharing this repository.
-
 ## Business questions
 
 - How are traffic, revenue, and conversion changing over time?
