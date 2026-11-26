@@ -20,9 +20,9 @@ The dashboard contains three pages:
 
 ## Selected findings
 
-- **Product discovery is a key funnel bottleneck:** approximately 77K of 360K sessions reached a product view.
-- **Not every purchase follows the standard funnel:** approximately 41.5% of purchase sessions occurred outside the fully ordered product-view → cart → checkout → purchase path.
-- **Acquisition quality differs by channel:** referral cohorts showed higher revenue per acquired user than paid cohorts in the analysis (approximately $1.40 vs. $0.70).
+- **Revenue Dropped 70% Across Comparable Periods:** Revenue declined from $190.7K to $57.1K (-70%) across two comparable 28-day periods. Restoring conversion performance represents an estimated $48K revenue opportunity, assuming comparable traffic and average order value.
+- **NReferral Outperformed Paid Acquisition** Referral generated approximately 2× more revenue per acquired user than Paid ($1.40 vs. $0.70). This suggests an opportunity to prioritize high-value acquisition channels rather than focusing exclusively on traffic volume.
+- **Product Discovery Is the Main Conversion Bottleneck:** Only 21.4% of sessions reached a product view, representing the largest drop-off in the standard conversion funnel. Additionally, 41.5% of purchasing sessions occurred outside the fully tracked standard funnel, suggesting alternative customer journeys worth investigating.
 
 These observations are descriptive, based on the GA4 sample and the dashboard's modeling choices; they do not establish causality.
 
